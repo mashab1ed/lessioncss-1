@@ -1,0 +1,13 @@
+
+
+
+.text--bold {
+    color: blue;
+    border: 3px solid #000;
+}
+.parent ,.child {
+    color: red;
+}
+#blog  {
+   background-color: aqua;
+}
